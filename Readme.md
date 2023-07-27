@@ -1,7 +1,7 @@
 <h1 align = "center"> Simple Calculator with TypeScript </h1>
 
 <div style="text-align:center">
-    <img src="./public/assets/image.png" width="300px"> 
+    <img src="./public/assets/image.png" align="center" width="300px"> 
 </div>
 
 
